@@ -5,25 +5,25 @@
 This project aims to develop a secure, efficient, and AI-driven system for online examinations. It provides a robust platform for both teachers and students, ensuring the integrity and fairness of the exam process.
 
 
-##Why Choose Our Solution?
+## Why Choose Our Solution?
 
 In an era where digital education is paramount, our solution aims to revolutionize online examinations by enhancing security, integrity, and efficiency through advanced technologies.
 
-##Problems Our System Solves:
+## Problems Our System Solves:
 
-###Secure Question Management
+### Secure Question Management
 🚩 Issue: Potential leaks and unauthorized access to exam questions.
 💡 Solution: Upload questions encrypted via Web3, generating unique hashcodes to ensure secure storage and sharing.
 
-###Exam Integrity
+### Exam Integrity
 🚩 Issue: Cheating during online exams.
 💡 Solution: Implement an AI-based motion tracking system to monitor student activity and prevent cheating in real-time.
 
-###Efficient Evaluation
+### Efficient Evaluation
 🚩 Issue: Time-consuming and error-prone manual evaluation of OMR sheets.
 💡 Solution: Use AI to automatically check OMR sheets, ensuring accurate and quick result generation. Integration with Avelence for seamless result submission.
 
-###Smart Contract for Question Sharing
+### Smart Contract for Question Sharing
 🚩 Issue: Trust and transparency in distributing exam questions.
 💡 Solution: Utilize smart contracts with Web3 to securely share questions, ensuring only authorized access and tamper-proof distribution.
 
